@@ -1,0 +1,3 @@
+0,admin,root,admin
+1,seller,venta,vendedor
+2,provider,compra,proveedor
